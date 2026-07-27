@@ -1,0 +1,51 @@
+{
+    "msg_title": "مدیریت مدل ها",
+    "msg_description": "مدل ها برای استفاده آفلاین باید یک بار دانلود شوند. پس از دانلود، می توانید بدون نیاز به اینترنت از آنها استفاده کنید.",
+    "models": [
+        {
+            "title": "مدل پایه",
+            "sub_title": "مناسب برای چت های عادی",
+            "file_name": "base.litertlm",
+            "save_path": "models/chat/base",
+            "version": 0,
+            "file_size": "6",
+            "min_ram": "4096",
+            "server1": [
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xaamini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xabmini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xacmini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xadmini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xaemini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xafmini_model",
+                "https://github.com/mostafa-efafi/o_c_api/raw/refs/heads/main/models/chat/base/xagmini_model"
+            ],
+            "server2": [
+                "part1",
+                "part2",
+                "part3",
+                "part4"
+            ]
+        },
+        {
+            "title": "مدل پیشرفته",
+            "sub_title": "قدرتمند در حل مسائل پیچیده",
+            "file_name": "pro.litertlm",
+            "save_path": "models/chat/pro",
+            "version": 0,
+            "file_size": "3584",
+            "min_ram": "12288",
+            "server1": [
+                "part1",
+                "part2",
+                "part3",
+                "part4"
+            ],
+            "server2": [
+                "part1",
+                "part2",
+                "part3",
+                "part4"
+            ]
+        }
+    ]
+}
